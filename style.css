@@ -147,11 +147,12 @@ header .search{
 
 .text-over1{
     position: absolute;
+    font-family: John;
     top: 80%;
     left: 1%;
     font-family:EB-Gar;
     color: white;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bold;
     text-align: center;
     padding: 10px;
